@@ -70,5 +70,4 @@ I'm always open to **learning, collaborating, building interesting projects, and
 
 </div>
 
----
 
