@@ -52,22 +52,3 @@ I'm always open to **learning, collaborating, building interesting projects, and
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white)
-
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=zain085&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=zain085&theme=merko&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zain085&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
-
